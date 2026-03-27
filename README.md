@@ -36,8 +36,6 @@ Finishing a B.S. in Data Science at Nevada State University (Dec 2026), with two
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henokytilahun&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=default)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=henokytilahun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=default)
 
 </div>
