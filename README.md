@@ -1,6 +1,6 @@
 <div align="center">
 ```
-H E N O K   T I L A H U N
+H E N O K      T I L A H U N
 ```
 
 *Data Scientist · Las Vegas, NV*
